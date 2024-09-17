@@ -1,0 +1,151 @@
+.signalbody {
+    position: absolute;
+    width: 150px;
+    height: 350px;
+    background-color: rgb(36, 36, 36);
+    border-radius: 20px;
+    left: 198px;
+    top: 11px;
+    border: 3px solid black;
+
+}
+
+.red {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 25px;
+    top: 20px;
+    border-radius: 50%;
+    border: 3px solid grey;
+}
+
+.orange {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 25px;
+    top: 125px;
+    border-radius: 50%;
+    border: 3px solid grey;
+}
+
+.green {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 25px;
+    top: 230px;
+    border-radius: 50%;
+    border: 3px solid grey;
+}
+
+.lamp.red {
+    background-color: #330f0f;
+}
+
+.lamp.orange {
+    background-color: #36361a;
+}
+
+.lamp.green {
+    background-color: #0c350c;
+}
+
+.pole {
+    position: absolute;
+    background-color: rgb(36, 36, 36);
+    width: 50px;
+    height: 250px;
+    left: 250px;
+    top: 365px;
+    border: 3px solid black;
+}
+
+.signalbase {
+    position: absolute;
+    background-color: rgb(36, 36, 36);
+    width: 100px;
+    height: 20px;
+    left: 222px;
+    top: 600px;
+    border-top-left-radius: 40%;
+    border-top-right-radius: 40%;
+    border-bottom: 0;
+    border: 3px solid black;
+}
+
+.timer {
+    position: absolute;
+    width: 60px;
+    height: 75px;
+    background-color: rgb(36, 36, 36);
+    margin: 0px auto 0px auto;
+    left: 125px;
+    top: 370px;
+    padding: 10px;
+    border-radius: 15px;
+    border: 3px solid black;
+}
+
+.timer .num {
+    margin-top: 7px;
+    text-align: center;
+    bottom: 10px;
+    font-size: 50px;
+    font-weight: bold;
+    background-color: #555555;
+    border-radius: 20px;
+}
+
+.holder1 {
+    position: absolute;
+    width: 45px;
+    height: 15px;
+    background-color: rgb(36, 36, 36);
+    top: 395px;
+    left: 205px;
+}
+
+.holder2 {
+    position: absolute;
+    width: 45px;
+    height: 15px;
+    background-color: rgb(36, 36, 36);
+    top: 425px;
+    left: 205px;
+}
+
+.display {
+    position: absolute;
+    width: 60px;
+    height: 75px;
+    background-color: rgb(36, 36, 36);
+    left: 348px;
+    top: 370px;
+    padding: 10px;
+    border-radius: 15px;
+    border: 3px solid black;
+}
+
+.holder3 {
+    position: absolute;
+    width: 45px;
+    height: 15px;
+    background-color: rgb(36, 36, 36);
+    top: 395px;
+    left: 305px;
+}
+
+.holder4 {
+    position: absolute;
+    width: 45px;
+    height: 15px;
+    background-color: rgb(36, 36, 36);
+    top: 425px;
+    left: 305px;
+}
+
+.human {
+    background-color: rgb(36, 36, 36);
+}

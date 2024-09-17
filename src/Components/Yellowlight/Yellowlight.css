@@ -1,0 +1,8 @@
+.Yellowlight-container {
+    height: 80px;
+    width: 80px;
+    border: 1px solid;
+    border-radius: 40px;
+    background-color: yellow;
+    margin-top: 20px;
+}
