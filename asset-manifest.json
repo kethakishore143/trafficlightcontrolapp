@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trafficlightcontrolapp/static/css/main.a4e4ea87.css",
+    "main.js": "/trafficlightcontrolapp/static/js/main.32c88dee.js",
+    "static/js/453.7f692674.chunk.js": "/trafficlightcontrolapp/static/js/453.7f692674.chunk.js",
+    "index.html": "/trafficlightcontrolapp/index.html",
+    "main.a4e4ea87.css.map": "/trafficlightcontrolapp/static/css/main.a4e4ea87.css.map",
+    "main.32c88dee.js.map": "/trafficlightcontrolapp/static/js/main.32c88dee.js.map",
+    "453.7f692674.chunk.js.map": "/trafficlightcontrolapp/static/js/453.7f692674.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4e4ea87.css",
+    "static/js/main.32c88dee.js"
+  ]
+}
